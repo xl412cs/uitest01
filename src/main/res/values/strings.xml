@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UITest01</string>
+    <!-- 信息一览 -->
+    <string name="news_top_left_text">主页</string>
+    <string name="title_news_category_tops">全部订单</string>
+    <string name="title_news_category_sport">商城订单</string>
+    <string name="title_news_category_play">扫码加价</string>
+    <string name="title_news_category_finance">佣金明细</string>
+    <string name="title_news_category_science">每日汇总</string>
+
+
+    <!-- 话题-->
+    <string name="topic_top_left_text">话题</string>
+    <!-- 图片 -->
+    <string name="picture_top_left_text">图片</string>
+    <!-- 跟帖 -->
+    <string name="follow_top_left_text">跟帖</string>
+    <!-- 投票 -->
+    <string name="vote_top_left_text">投票</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
