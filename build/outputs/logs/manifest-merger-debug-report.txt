@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5f7b2f49afe001785035c6675c0016c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2076689e1d4e03164108db7abde6c98d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b17a24fe45d780c64a6d0dbdf9956ecd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3e6b287460a968f2571f5a93b1745532\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7156b9703c4c2cd8441f2e3ca276861a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8779d3d7c34e2f5ef88810e4bc693eb1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6f41fad995c968c1b5326c93480dd4b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8d023cdf7e0379c4ed81ba8b040c96f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d3b4ed89780b79322e20e927e7c3099d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0df5d47cd46d398885431d4619e2e972\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\64e6765380d58ecc00ad6bab8f394122\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9749278825bc06dadf0faded9f9880b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8d9321c096e896318e8905582a15c33\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c79cf597b0161ef25d1b81ea54842987\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:3:11-47
+		INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2076689e1d4e03164108db7abde6c98d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2076689e1d4e03164108db7abde6c98d\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:11:9-40
+activity#com.opencv.xlstef.uitest01.MainActivity
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:16:27-74
+activity#com.opencv.xlstef.uitest01.TabFollowActivity
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:19:19-52
+activity#com.opencv.xlstef.uitest01.TabNewsActivity
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:20:19-50
+activity#com.opencv.xlstef.uitest01.TabPicActivity
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:21:19-49
+activity#com.opencv.xlstef.uitest01.TabVoteActivity
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:22:19-50
+activity#com.opencv.xlstef.uitest01.TabTopicActivity
+ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml:23:19-51
+uses-sdk
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5f7b2f49afe001785035c6675c0016c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5f7b2f49afe001785035c6675c0016c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2076689e1d4e03164108db7abde6c98d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2076689e1d4e03164108db7abde6c98d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b17a24fe45d780c64a6d0dbdf9956ecd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b17a24fe45d780c64a6d0dbdf9956ecd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3e6b287460a968f2571f5a93b1745532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3e6b287460a968f2571f5a93b1745532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7156b9703c4c2cd8441f2e3ca276861a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7156b9703c4c2cd8441f2e3ca276861a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8779d3d7c34e2f5ef88810e4bc693eb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8779d3d7c34e2f5ef88810e4bc693eb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6f41fad995c968c1b5326c93480dd4b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6f41fad995c968c1b5326c93480dd4b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8d023cdf7e0379c4ed81ba8b040c96f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8d023cdf7e0379c4ed81ba8b040c96f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d3b4ed89780b79322e20e927e7c3099d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d3b4ed89780b79322e20e927e7c3099d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0df5d47cd46d398885431d4619e2e972\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0df5d47cd46d398885431d4619e2e972\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\64e6765380d58ecc00ad6bab8f394122\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\64e6765380d58ecc00ad6bab8f394122\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9749278825bc06dadf0faded9f9880b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9749278825bc06dadf0faded9f9880b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8d9321c096e896318e8905582a15c33\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8d9321c096e896318e8905582a15c33\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c79cf597b0161ef25d1b81ea54842987\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\xl_stef\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c79cf597b0161ef25d1b81ea54842987\AndroidManifest.xml:20:5-44
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidWorkSpace\MyJFQWork\uitest01\src\main\AndroidManifest.xml

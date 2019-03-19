@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 18 22:16:28 CST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\AndroidWorkSpace\\MyJFQWork\\uitest01\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
